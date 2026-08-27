@@ -21,3 +21,7 @@ An interactive Excel dashboard for analyzing supermarket sales.
 - Total Transactions: 100
 - Top Product: Rice
 - Top City: Chennai
+
+- ## Dashboard Preview
+
+![Supermarket Sales Dashboard](Supermarket_Sales_Dashboard.png)
